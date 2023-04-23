@@ -1,0 +1,2 @@
+# HRAnalytics
+![Dashboard](dashboard.png)
